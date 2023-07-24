@@ -1,0 +1,11 @@
+framework module FBAnal {
+  umbrella header "FBAnal.h"
+
+  export *
+  module * { export * }
+}
+
+module FBAnal.Swift {
+  header "FBAnal-Swift.h"
+  requires objc
+}
