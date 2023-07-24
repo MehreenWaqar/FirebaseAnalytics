@@ -1,7 +1,7 @@
 # Integrate XCFramework in your project
 
 # Method: 1
-- Open archive folder and cop/paste FBAnal.xcframework into your project, your google-service.plist should be in your project.
+- Copy/paste FBAnal.xcframework into your project, your google-service.plist should be in your project.
   
 # Method: 2
 - Clone project and open in terminal
